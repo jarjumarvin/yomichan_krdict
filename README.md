@@ -2,7 +2,7 @@ Collection of Korean dictionaries in the Yomichan format, including verb conjuga
 
 # Yomichan
 
-These dictionaries are meant to be used with the Yomichan ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) / [Chrome](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami/related)) browser extension. It opens an interactive window when e.g. hovering some text while holding SHIFT; See images below.
+These dictionaries are meant to be used with the Yomitan ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) / [Chrome](https://chrome.google.com/webstore/detail/yomitan/ browser extension. It opens an interactive window when e.g. hovering some text while holding SHIFT; See images below.
 
 I've attached my settings tuned for Korean. (Can import at the bottom of the settings pages of either extensions).
 
